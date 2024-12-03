@@ -1,0 +1,19 @@
+# Ignore object files
+*.o
+
+# Ignore executable
+hash_program
+
+# Ignore build artifacts
+*.exe
+*.out
+
+# Ignore dependency files
+*.d
+
+# Ignore editor/OS-specific files
+*.swp
+*~
+.DS_Store
+.vscode/
+.idea/
